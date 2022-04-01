@@ -1,0 +1,7 @@
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\bin\Debug\MegaProjectListToDO.exe.config
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\bin\Debug\MegaProjectListToDO.exe
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\bin\Debug\MegaProjectListToDO.pdb
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\obj\Debug\MegaProjectListToDO.csproj.AssemblyReference.cache
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\obj\Debug\MegaProjectListToDO.csproj.CoreCompileInputs.cache
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\obj\Debug\MegaProjectListToDO.exe
+C:\Users\newse\source\repos\MegaProjectListToDO\MegaProjectListToDO\obj\Debug\MegaProjectListToDO.pdb
